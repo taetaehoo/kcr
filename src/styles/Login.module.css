@@ -1,0 +1,25 @@
+.Login_title {
+    border-width: 0 0 2px 0;
+    border-style: solid;
+}
+
+.login_contents {
+    display: 'flex';
+    justify-content: space-evenly;
+    font-family: 'GmarketSansMedium';
+    font-size: small;
+}
+
+.login_contents, .id_wapper, .pwd_wapper{
+    width: 180px;
+    align-items: center;
+    justify-content: center;
+    border-width: 0 2px 0 0;
+    border-style: solid;
+}
+
+.login_button_wapper {
+    border-width:2px;
+    border-style: solid;
+    border-radius: 5px;
+}

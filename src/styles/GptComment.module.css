@@ -1,0 +1,8 @@
+.container {
+  width: 70vw;
+  height: 10vh;
+
+  margin: 0 auto;
+  border-bottom: 1px solid black;
+  margin-bottom: 1vh;
+}
